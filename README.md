@@ -2,10 +2,10 @@
  
  
  
- [
  
+[ 
  <img width="607" alt="Screen Shot 2021-06-07 at 6 13 12 PM" src="https://user-images.githubusercontent.com/80833988/121107043-0fee8100-c7bc-11eb-9671-a85fefb08d9d.png">
-](url)
+]
 
 
 
@@ -16,9 +16,9 @@
 Forecasting With Prophet 
 
 
-:star: Challenge 11
+ Challenge 11
 
-!!! Go to "How to install" in order to properly run the code.
+ Go to "How to install" in order to properly run the code.
 
 
 ## Table of content

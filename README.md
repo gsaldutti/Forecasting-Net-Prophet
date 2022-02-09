@@ -21,19 +21,6 @@ Forecasting With Prophet
  Go to "How to install" in order to properly run the code.
 
 
-## Table of content
-- [Overview of the project and project goals](https://github.com/gsaldutti/Forecasting#overview-of-the-project-and-project-goals) 
-- [Software version control](https://github.com/gsaldutti/Forecasting#software-version-control)
-    - [Libraries](https://github.com/gsaldutti/Forecasting#libraries)
-    - [Interfaces](https://github.com/gsaldutti/Forecasting#interfaces)
-    - [Work with GitHub](https://github.com/gsaldutti/Forecasting#work-with-github)
-    - [How to install](https://github.com/gsaldutti/Forecasting#how-to-install)
-- [Results and summary of the analysis](https://github.com/gsaldutti/Forecasting#results-and-summary-of-the-analysis)
-
-
-
-
-
 ## Overview of the project and project goals
 
 The goal is to create a Jupyter notebook that  contains all data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Text and comments to document my findings, and answered the question prompts in the instructions, plot the results so that we can visually show illustrate the predictions.

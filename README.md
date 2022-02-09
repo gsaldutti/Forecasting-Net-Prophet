@@ -16,7 +16,7 @@
 Forecasting With Prophet 
 
 
- Challenge 11
+ Challenge 10
 
  Go to "How to install" in order to properly run the code.
 

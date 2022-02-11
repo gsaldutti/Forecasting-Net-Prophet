@@ -63,7 +63,7 @@ Google Colab is an Integrated Development Environment (IDE) that allows users to
 ```
 cd desktop
 
-git clone https://github.com/gsaldutti/forecasting-net-prophet.git
+git clone https://github.com/gsaldutti/forecasting_net_prophet.git
 ```
 
 

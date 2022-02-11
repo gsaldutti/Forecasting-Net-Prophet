@@ -45,7 +45,7 @@ The goal is to create a Jupyter notebook that contains all data preparation, ana
 Google Colab is an Integrated Development Environment (IDE) that allows users to run Jupyter Notebooks in the cloud.
 
  
-### Work with GitHub
+### GitHub
 * Repository created on GitHub
 * Files were committed using command line
 * My repository is organized, and includes Resources folder with CSV  project files, 

@@ -14,7 +14,7 @@ In this Challenge, I will assume the role of a growth analyst at MercadoLibre - 
 # Forecasting
 Forecasting With Prophet 
 
-Go to "How to install" in order to properly run the code.
+"How to install" in order to properly run the code.
 
 
 ## Overview of the project and project goals

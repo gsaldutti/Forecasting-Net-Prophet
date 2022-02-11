@@ -67,7 +67,7 @@ git clone https://github.com/gsaldutti/forecasting-net-prophet.git
 ```
 
 
-* We will run a Jupyter Notebook in [Google Colab](https://colab.research.google.com/) 
+* I ran a Jupyter Notebook in [Google Colab](https://colab.research.google.com/) 
 *  Choose [ forecasting_net_prophet.ipynb ] file in Forecasting folder to see the analysis report.
 
 

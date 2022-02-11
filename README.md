@@ -15,10 +15,7 @@
 # Forecasting
 Forecasting With Prophet 
 
-
- Challenge 10
-
- Go to "How to install" in order to properly run the code.
+Go to "How to install" in order to properly run the code.
 
 
 ## Overview of the project and project goals

@@ -1,10 +1,10 @@
- Forecasting_Net_Prophet
+ Forecasting-Net-Prophet
  
  
  
  
 [ 
- <img width="607" alt="Screen Shot 2021-06-07 at 6 13 12 PM" src="https://user-images.githubusercontent.com/80833988/121107043-0fee8100-c7bc-11eb-9671-a85fefb08d9d.png">
+ <img width="607" alt= src="https://user-images.githubusercontent.com/80833988/121107043-0fee8100-c7bc-11eb-9671-a85fefb08d9d.png">
 ]
 
 

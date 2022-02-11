@@ -56,14 +56,14 @@ Google Colab is an Integrated Development Environment (IDE) that allows users to
 
 * Save the REPO created in GitHub to the computer via the following path:
 
-   cd/REPOs/Forecasting-Net-Prophet
+   cd/REPOs/Forecasting_Net_Prophet
 
 ![Local Path](path.png)
 
 ```
 cd desktop
 
-git clone https://github.com/gsaldutti/forecasting_net_prophet.git
+git clone https://github.com/gsaldutti/forecasting-net-prophet.git
 ```
 
 

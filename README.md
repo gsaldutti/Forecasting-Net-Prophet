@@ -9,7 +9,7 @@
 
 
 
-> "In this Challenge, I will assume the role of growth analyst at MercadoLibre-most popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data i need to find a clever ways to make the company grow. Using my new skills of forecasting future with Prophet, I will try to predict search traffic and translate it into the ability to successfully trade the stock.
+> "In this Challenge, I will assume the role of growth analyst at MercadoLibre-most popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data I need to find a clever ways to make the company grow. Using my new skills of forecasting future with Prophet, I will try to predict search traffic and translate it into the ability to successfully trade the stock.
 "
 
 # Forecasting
@@ -79,7 +79,7 @@ cd desktop
 git clone https://github.com/gsaldutti/forecasting-net-prophet.git
 ```
 
-now you can find repo on your desktop
+now you can find the repo on your desktop
 
 
 * We will run a Jupyter Notebook in [Google Colab](https://colab.research.google.com/) 

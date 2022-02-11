@@ -22,7 +22,7 @@ How to install
 
 The goal is to create a Jupyter notebook that contains all data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Text and comments to document my findings, and answered the question prompts in the instructions, plot the results so that we can visually show illustrate the predictions.
 
-
+![FORECASTING](forecasting.png)
 
 ## Software version control
 

@@ -8,13 +8,14 @@
 
 
 
-In this Challenge, I will assume the role of a growth analyst at MercadoLibre - a very popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data, I need to find various ways to make the company grow. Using my newly acquired skills of forecasting the future with Prophet, I will predict search traffic and translate it into the ability to successfully trade the stock.
+In the Assignment, I will assume the role of a growth analyst at MercadoLibre - a very popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data, I need to find various ways to make the company grow. Using my newly acquired skills of forecasting the future with Prophet, I will predict search traffic and translate it into the ability to successfully trade the stock.
 
 
 # Forecasting
+
 Forecasting With Prophet 
 
-"How to install" in order to properly run the code.
+How to install
 
 
 ## Overview of the project and project goals

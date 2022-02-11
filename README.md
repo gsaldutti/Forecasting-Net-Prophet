@@ -9,7 +9,7 @@
 
 
 
-> "In this Challenge, I will assume the role of a growth analyst at MercadoLibre - a very popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data, I need to find a various ways to make the company grow. Using my newly acquired skills of forecasting future with Prophet, I will predict search traffic and translate it into the ability to successfully trade the stock.
+> "In this Challenge, I will assume the role of a growth analyst at MercadoLibre - a very popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data, I need to find various ways to make the company grow. Using my newly acquired skills of forecasting future with Prophet, I will predict search traffic and translate it into the ability to successfully trade the stock.
 "
 
 # Forecasting

@@ -76,7 +76,7 @@ The Facebook Prophet library can be difficult to install on some machines, so in
 ```
 cd desktop
 
-git clone https://github.com/gsaldutti/Forecasting.git
+git clone https://github.com/gsaldutti/forecasting-net-prophet.git
 ```
 
 now you can find repo on your desktop

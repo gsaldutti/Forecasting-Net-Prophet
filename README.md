@@ -31,23 +31,13 @@ The goal is to create a Jupyter notebook that contains all data preparation, ana
 *  Pandas - is a software library designed for data analytics that makes it easier to work with data from practically any type of file. Pandas supplies powerful tools for working with time data in particular, and time is a key aspect of financial analysis. Analysts typically compare and measure financial assets—from single stocks to large portfolios—across time.
 *  Prophet - is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
 * Following libraries were imported
+* The following code is also promped us to install nesessary libriries right in google colab:
 
-```
-# Import the required libraries and dependencies
-import pandas as pd
-from pathlib import Path
-import holoviews as hv
-from fbprophet import Prophet
-import hvplot.pandas
-import datetime as dt
-%matplotlib inline
-```
 
-The following code is also promped us to install nesessary libriries right in google colab:
+![LIBRARIES](libraries.png)
 
-[
-<img width="766" alt="Screen Shot 2021-06-07 at 6 20 56 PM" src="https://user-images.githubusercontent.com/80833988/121107631-1cbfa480-c7bd-11eb-8825-ab1c071e3975.png">
-](url)
+
+
 
 ### Interfaces
 

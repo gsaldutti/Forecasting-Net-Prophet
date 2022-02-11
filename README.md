@@ -9,7 +9,7 @@
 
 
 
-> In this Challenge, I will assume the role of a growth analyst at MercadoLibre - a very popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data, I need to find various ways to make the company grow. Using my newly acquired skills of forecasting future with Prophet, I will predict search traffic and translate it into the ability to successfully trade the stock.
+In this Challenge, I will assume the role of a growth analyst at MercadoLibre - a very popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data, I need to find various ways to make the company grow. Using my newly acquired skills of forecasting the future with Prophet, I will predict search traffic and translate it into the ability to successfully trade the stock.
 
 
 # Forecasting
@@ -68,7 +68,7 @@ The Facebook Prophet library can be difficult to install on some machines, so in
 
 ### How to install
 
-* Save remote repo from GitHub to your computer (Desktop): in Terninal type:
+* Save remote REPO from GitHub to the computer Desktop: in the terminal type:
 
 ```
 cd desktop
@@ -76,7 +76,7 @@ cd desktop
 git clone https://github.com/gsaldutti/forecasting-net-prophet.git
 ```
 
-now you can find the repo on your desktop
+now I can find the repo on my desktop
 
 
 * We will run a Jupyter Notebook in [Google Colab](https://colab.research.google.com/) 

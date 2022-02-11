@@ -9,7 +9,7 @@
 
 
 
-> "In this Challenge, I will assume the role of growth analyst at MercadoLibre-most popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data I need to find a clever ways to make the company grow. Using my new skills of forecasting future with Prophet, I will try to predict search traffic and translate it into the ability to successfully trade the stock.
+> "In this Challenge, I will assume the role of a growth analyst at MercadoLibre - a very popular e-commerce site in Latin America. With a task of analyzing the company's financial and user data, I need to find a various ways to make the company grow. Using my newly acquired skills of forecasting future with Prophet, I will predict search traffic and translate it into the ability to successfully trade the stock.
 "
 
 # Forecasting
@@ -23,7 +23,7 @@ Forecasting With Prophet
 
 ## Overview of the project and project goals
 
-The goal is to create a Jupyter notebook that  contains all data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Text and comments to document my findings, and answered the question prompts in the instructions, plot the results so that we can visually show illustrate the predictions.
+The goal is to create a Jupyter notebook that contains all data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Text and comments to document my findings, and answered the question prompts in the instructions, plot the results so that we can visually show illustrate the predictions.
 
 
 [
@@ -58,14 +58,14 @@ The following code is also promped us to install nesessary libriries right in go
 
 ### Interfaces
 
-- Google Colab
+Google Colab
 The Facebook Prophet library can be difficult to install on some machines, so in this module you'll also get aquainted with Google Colab - an IDE that allows you to run Jupyter Notebooks in the cloud.
 
  
 ### Work with GitHub
 * Repository created on GitHub
 * Files were  committed using command line
-* Our repository is organized, and includes Resources folder with CSV  project files, 
+* My repository is organized, and includes Resources folder with CSV  project files, 
 * Jupyter Notebook with code runs without errors.
 * Answers on nesassary questions are included
 

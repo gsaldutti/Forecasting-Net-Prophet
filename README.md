@@ -42,16 +42,15 @@ The goal is to create a Jupyter notebook that contains all data preparation, ana
 
 ### Interfaces
 
-Google Colab
-The Facebook Prophet library can be difficult to install on some machines, so in this module you'll also get aquainted with Google Colab - an IDE that allows you to run Jupyter Notebooks in the cloud.
+Google Colab is an Integrated Development Environment (IDE) that allows users to run Jupyter Notebooks in the cloud.
 
  
 ### Work with GitHub
 * Repository created on GitHub
-* Files were  committed using command line
+* Files were committed using command line
 * My repository is organized, and includes Resources folder with CSV  project files, 
-* Jupyter Notebook with code runs without errors.
-* Answers on nesassary questions are included
+* Jupyter Notebook with code, runs without errors.
+* Answers on questions are included
 
 ### How to install
 

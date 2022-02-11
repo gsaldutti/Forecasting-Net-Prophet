@@ -47,8 +47,8 @@ Google Colab is an Integrated Development Environment (IDE) that allows users to
  
 ### GitHub
 * Repository created on GitHub
-* Files were committed using command line
-* My repository is organized, and includes Resources folder with CSV  project files, 
+* Files were committed using the command line in GITBASH
+* My repository is organized to include resources folders with CSV files
 * Jupyter Notebook with code, runs without errors.
 * Answers on questions are included
 
@@ -61,8 +61,6 @@ cd desktop
 
 git clone https://github.com/gsaldutti/forecasting-net-prophet.git
 ```
-
-now I can find the repo on my desktop
 
 
 * We will run a Jupyter Notebook in [Google Colab](https://colab.research.google.com/) 

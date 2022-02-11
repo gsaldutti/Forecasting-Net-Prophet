@@ -22,10 +22,6 @@ Go to "How to install" in order to properly run the code.
 The goal is to create a Jupyter notebook that contains all data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Text and comments to document my findings, and answered the question prompts in the instructions, plot the results so that we can visually show illustrate the predictions.
 
 
-[
-<img width="647" alt="Screen Shot 2021-06-07 at 6 17 15 PM" src="https://user-images.githubusercontent.com/80833988/121107334-986d2180-c7bc-11eb-9d10-f2e0ece08fea.png">
-](url)
-
 
 ## Software version control
 

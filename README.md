@@ -180,7 +180,7 @@ uploaded = files.upload()
 
 
 
-## License
+## License MIT
 
 Copyright (C) Gregg Saldutti 2022
 
